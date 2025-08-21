@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Hartree Postdoctoral Fellow at the [Joint Center for Quantum Information and Computer Science](https://quics.umd.edu/). My research interests lie at
+I am currently a Hartree Postdoctoral Fellow at the [Joint Center for Quantum Information and Computer Science](https://quics.umd.edu/). I do research on Quantum Information and Quantum Computing. More broadly, my research interests lie at
 the intersection of physics and computer science. 
+
+
 
 A data-driven personal website
 ======
