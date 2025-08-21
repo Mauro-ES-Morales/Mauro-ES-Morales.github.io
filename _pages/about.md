@@ -15,15 +15,13 @@ the intersection of physics and computer science.
 
 ## Quantum Algorithms
 My research focuses on advancing quantum algorithms with applications in physics and engineering. My work encompasses several key areas, including Hamiltonian simulation, quantum algorithms for linear equations, quantum differential equation solvers, and quantum algorithms for combinatorial optimization. Additionally, I have contributed to the development of variational algorithms.
-
 In the field of Hamiltonian simulation, I have explored Trotterization techniques, collaborating with peers to identify optimal product formulas for simulating quantum systems. My research also includes evaluating the performance of quantum linear solvers and combinatorial optimization algorithms, aiming to enhance their efficiency and practical applicability.
-
 Another area of interest is quantum sampling schemes. In collaboration with colleagues, I have proposed a novel Fermion Sampling scheme, drawing inspiration from Boson Sampling, to advance the understanding and implementation of quantum sampling methods.
 
-
-
 ## Quantum Complexity Theory
+I'm interested in computational complexity theory as a way to understand the computational power of quantum computers and also as a tool to understand the hardness of various problems in physics. I aim to deepen the understanding of quantum computational advantages and address computational problems in physical systems.
 
+Together with colleagues, we have proposed a theory of quantum parameterized complexity. We have studied a parameterized version of the local Hamiltonian problem and the hardness to the Exponential Time Hypothesis (ETH) and quantum versions of it.
 
 
 
