@@ -11,6 +11,22 @@ redirect_from:
 I am currently a Hartree Postdoctoral Fellow at the [Joint Center for Quantum Information and Computer Science](https://quics.umd.edu/). I do research on Quantum Information and Quantum Computing. More broadly, my research interests lie at
 the intersection of physics and computer science. 
 
+# Research
+
+## Quantum Algorithms
+
+My primary motivation is to leverage quantum algorithms to address complex challenges in physics and engineering.
+
+My research focuses on advancing quantum algorithms with applications in physics and engineering. My work encompasses several key areas, including Hamiltonian simulation, quantum algorithms for linear equations, quantum differential equation solvers, and quantum algorithms for combinatorial optimization. Additionally, I have contributed to the development of variational algorithms.
+
+In the field of Hamiltonian simulation, I have explored Trotterization techniques, collaborating with peers to identify optimal product formulas for simulating quantum systems. My research also includes evaluating the performance of quantum linear solvers and combinatorial optimization algorithms, aiming to enhance their efficiency and practical applicability.
+
+Another area of interest is quantum sampling schemes. In collaboration with colleagues, I have proposed a novel Fermion Sampling scheme, drawing inspiration from Boson Sampling, to advance the understanding and implementation of quantum sampling methods.
+
+
+
+## Quantum Complexity Theory
+
 
 
 <!--
