@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! Here I keep all my research and projects"
+title: "Welcome! I'm Mauro Morales and I keep all my research projects here"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
