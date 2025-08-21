@@ -21,7 +21,7 @@ Another area of interest is quantum sampling schemes. In collaboration with coll
 ## Quantum Complexity Theory
 I'm interested in computational complexity theory as a way to understand the computational power of quantum computers and also as a tool to understand the hardness of various problems in physics. I aim to deepen the understanding of quantum computational advantages and address computational problems in physical systems.
 
-Together with colleagues, we have proposed a theory of quantum parameterized complexity. We have studied a parameterized version of the local Hamiltonian problem and the hardness to the Exponential Time Hypothesis (ETH) and quantum versions of it.
+Together with colleagues, we have proposed a theory of quantum parameterized complexity. We have studied a parameterized version of the local Hamiltonian problem and the hardness to the Exponential Time Hypothesis (ETH) and quantum versions of it. My work on Fermion Sampling also intersects with quantum complexity theory.
 
 
 
